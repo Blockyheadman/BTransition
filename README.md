@@ -1,2 +1,2 @@
 # BTransition
-Godot 4 scene transitions
+## Smoothly transition your scenes between each other!
